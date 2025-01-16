@@ -17,7 +17,7 @@
       "path": "packs/ship-flaws.db",
       "type": "Item",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -26,7 +26,7 @@
       "path": "packs/ship-qualities.db",
       "type": "Item",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -35,7 +35,7 @@
       "path": "packs/ship-weapons.db",
       "type": "Item",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -44,7 +44,7 @@
       "path": "packs/ships.db",
       "type": "Actor",
       "private": false,
-      "system": "age-system",
+      "system": "expanse",
       "flags": {}
     },
     {
@@ -88,7 +88,7 @@
     ],
     "systems": [
       {
-        "id": "age-system",
+        "id": "expanse",
         "type": "system",
         "manifest": "https://raw.githubusercontent.com/vkdolea/age-system/prep-release/system.json",
         "compatibility": {}
