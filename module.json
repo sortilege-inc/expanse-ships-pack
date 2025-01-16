@@ -90,7 +90,7 @@
       {
         "id": "expanse",
         "type": "system",
-        "manifest": "https://raw.githubusercontent.com/vkdolea/age-system/prep-release/system.json",
+        "manifest": "https://github.com/Foxfyre/expanse/releases/latest/download/system.json",
         "compatibility": {}
       }
     ]
