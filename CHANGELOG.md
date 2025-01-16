@@ -1,3 +1,6 @@
+## 0.1.1 Initial update to migrate to The Expanse system
+- Initial compatibility testing
+
 ## 0.1.0 Initial Release
 - Packaged module with just ships sourced from the Expanse Fandom Wiki (content based on the books and TV show) for use with Foundry VTT worlds making use of the AGE System (unofficial) game system.
 - Ships (Actors)
